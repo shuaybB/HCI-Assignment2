@@ -4,6 +4,9 @@ Assignment 2 for Human Computer Interaction course (Covid-19 App UI Example).
 Link to Figma File: 
 https://www.figma.com/file/JBjSoQN65UlnRYKstm0az1/Assignment-1-HCI-Copy?node-id=0%3A1
 
+Link to Video Demo: 
+https://youtu.be/_PHTDBpuweM
+
 Need-Finding Top 5 Features for Covid-19 Related apps:
 
     1 - Contact Tracing/Exposure:  This feature allows users to know when they have come in close contact with the virus.
@@ -16,5 +19,7 @@ Need-Finding Top 5 Features for Covid-19 Related apps:
     
     5 - Help page/ FAQ: This is a place/ form for users to get quick answers to popular questions relating to the virus.
     
+    
+
 
 
