@@ -20,6 +20,9 @@ Need-Finding Top 5 Features for Covid-19 Related apps:
     5 - Help page/ FAQ: This is a place/ form for users to get quick answers to popular questions relating to the virus.
     
     
+# HCI-Assignment 3
 
+Link to Figma File: 
+https://www.figma.com/file/HPI9lSDwXblPR1sCQZydyB/Assignment-3-HCI?node-id=0%3A1
 
 
